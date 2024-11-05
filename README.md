@@ -1,4 +1,4 @@
-# ChatApp
+# Realtime Chat Application
 - Built a web-based platform where people can chat with front-end interface using TypeScript, Next.js and TailwindCSS.
 - Utilized the server-side by Golang with Gin HTTP web framework and Websocket to connect users.
 - Message and user data are recorded in Postgres, while cookie-based JWT is applied for authentication.
