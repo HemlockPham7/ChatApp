@@ -9,7 +9,10 @@
 https://github.com/user-attachments/assets/e3d8f6bd-36e7-4b81-b931-ca1554d31f3f
 
 ## ⭐ Features
-
+- Login
+- Creat a Room
+- Join Room
+- Send Messages
 
 ## 📸 Snapshots
 ### Login
